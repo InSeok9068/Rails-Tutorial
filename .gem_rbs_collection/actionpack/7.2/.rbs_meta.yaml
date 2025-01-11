@@ -1,9 +1,0 @@
----
-name: actionpack
-version: '7.2'
-source:
-  type: git
-  name: ruby/gem_rbs_collection
-  revision: 7651e7b92c15bd5b4bc11fd3dd455be0ea571fd0
-  remote: https://github.com/ruby/gem_rbs_collection.git
-  repo_dir: gems
